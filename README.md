@@ -48,7 +48,8 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/RahulM2005R/Gaussian-Elimination/assets/166299886/39e1b005-50b1-4400-a9c0-94c7d16a4a0f)
+![image](https://github.com/RahulM2005R/Gaussian-Elimination/assets/166299886/b65c71b1-d32d-4785-9550-f3d6c6af70f6)
+
 
 
 

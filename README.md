@@ -50,7 +50,7 @@ for i in range(n):
 ```
 
 ## Output:
-![image](https://github.com/RahulM2005R/Gaussian-Elimination/assets/166299886/023a2f39-72e8-41e7-97dc-79f0045a5912)
+C:\Users\Kishore\Downloads\WhatsApp Image 2024-05-22 at 22.17.04.jpeg
 ![image](https://github.com/RahulM2005R/Gaussian-Elimination/assets/166299886/8a12029e-116a-4d55-9841-021a8cda0cae)
 
 

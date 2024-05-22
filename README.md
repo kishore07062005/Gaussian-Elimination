@@ -21,8 +21,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: Rahul M R
-RegisterNumber: 2305003005
+Developed by: KISHORE.M
+RegisterNumber: 2305002012
 */
 import numpy as np
 import sys
